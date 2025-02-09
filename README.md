@@ -85,8 +85,7 @@ Explain the final build
 
 ### Project Demo
 # Video
-
-https://github.com/user-attachments/assets/b074c986-6744-4428-b71c-826f09fa62b3
+[https://github.com/user-attachments/assets/b074c986-6744-4428-b71c-826f09fa62b3]
 HOW TO USE
 
 # Additional Demos
