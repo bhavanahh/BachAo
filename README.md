@@ -38,10 +38,10 @@ For Hardware:
 ### Implementation
 For Software:
 # Installation
-Pip install -r requirements.txt
+```pip install -r requirements.txt```
 
 # Run
-python app.py
+```python app.py```
 
 ### Project Documentation
 For Software:
