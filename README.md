@@ -2,7 +2,7 @@
 
 
 ## Basic Details
-### Team Name: Pringles
+### Team Name: PRINGLES
 
 
 ### Team Members
